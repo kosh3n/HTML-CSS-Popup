@@ -160,11 +160,6 @@ figcaption {
     }
 }
 
-header {
-    height: 105px;
-}
-}
-
 @media (max-width: 940px) {
     header {
         display: flex;
